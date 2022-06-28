@@ -22,21 +22,13 @@
   </h3>
 </div>
 
-## Table of Contents
-
-- [Overview](#overview)
-  - [Built With](#built-with)
-- [Features](#features)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
-
-### Built With
+## Built With
 
 - HTML5 (Vanilla)
 - CSS (Vanilla)
 
 ## Contact
 
-- Website [your-website.com](https://github.com/dbrchrd)
-- GitHub [@your-username](https://github.com/dbrchrd)
-- Twitter [@your-twitter](https://twitter.com/)
+- Website [dbrchrd](https://github.com/dbrchrd)
+- GitHub [@dbrchrd](https://github.com/dbrchrd)
+- Twitter [@dbrchrd](https://twitter.com/)
